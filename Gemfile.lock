@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    logger (1.2.8)
+    minitest (5.9.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  logger (~> 1.2, >= 1.2.8)
+  minitest (~> 5.8, >= 5.8.4)
+
+BUNDLED WITH
+   1.13.5
